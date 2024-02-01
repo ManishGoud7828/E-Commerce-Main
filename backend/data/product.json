@@ -1,0 +1,155 @@
+[
+    {
+        "name": "Sandisk Ultra 128GB Memory Card upto 80MB/s",
+        "price": "45.8",
+        "description": "Ultra fast with magnificient speed. Beyond Imagination.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "ratings": "4.5",
+        "images": [
+            {
+                "public_id": "products/sandisk_ocesan",
+                "url": "https://res.cloudinary.com/aahj/image/upload/v1621696183/products/sandisk_ocesan.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "Amazon",
+        "stock": "50",
+        "numOfReviews": "32",
+        "reviews": []
+    },
+    {
+        "name": "Core i7/ 3rd Geneartion HP Laptop",
+        "price": "72.1",
+        "description": "4GB RAM / 520GB HDD. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "ratings": "4.7",
+        "images": [
+            {
+                "public_id": "products/laptop_ozx4wc",
+                "url": "https://res.cloudinary.com/aahj/image/upload/v1621696193/products/laptop_ozx4wc.jpg"
+            }
+        ],
+        "category": "Laptop",
+        "seller": "Ebay",
+        "stock": "8",
+        "numOfReviews": "22",
+        "reviews": []
+    },
+    {
+        "name": "Audionic Speaker",
+        "price": "15",
+        "description": "A1 quality sound producer. Beyond Imagination.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "ratings": "4.9",
+        "images": [
+            {
+                "public_id": "products/Audionic_Speaker_flwnc4",
+                "url": "https://res.cloudinary.com/aahj/image/upload/v1621696183/products/Audionic_Speaker_flwnc4.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Daraz",
+        "stock": "02",
+        "numOfReviews": "3",
+        "reviews": []
+    },
+    {
+        "name": "Iphone 11",
+        "price": "250",
+        "description": "Beyond Imagination.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "ratings": "4.8",
+        "images": [
+            {
+                "public_id": "products/03_jqmx4w",
+                "url": "https://res.cloudinary.com/aahj/image/upload/v1621696250/products/03_jqmx4w.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Daraz",
+        "stock": "340",
+        "numOfReviews": "3",
+        "reviews": []
+    },
+    {
+        "name": "Iphone 11",
+        "price": "180",
+        "description": "Beyond Imagination.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "ratings": "4.6",
+        "images": [
+            {
+                "public_id": "products/02_q99j4j",
+                "url": "https://res.cloudinary.com/aahj/image/upload/v1621696250/products/02_q99j4j.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Daraz",
+        "stock": "340",
+        "numOfReviews": "3",
+        "reviews": []
+    },
+    {
+        "name": "Iphone 12",
+        "price": "270",
+        "description": "Beyond Imagination.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "ratings": "5.0",
+        "images": [
+            {
+                "public_id": "products/images_im5nnr",
+                "url": "https://res.cloudinary.com/aahj/image/upload/v1621696250/products/images_im5nnr.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Daraz",
+        "stock": "340",
+        "numOfReviews": "3",
+        "reviews": []
+    },
+    {
+        "name": "Unique Bicycle",
+        "price": "59.3",
+        "description": "Beyond Imagination.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "ratings": "4.4",
+        "images": [
+            {
+                "public_id": "products/bicycle_x0diel",
+                "url": "https://res.cloudinary.com/aahj/image/upload/v1621696331/products/bicycle_x0diel.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Daraz",
+        "stock": "340",
+        "numOfReviews": "3",
+        "reviews": []
+    },
+    {
+        "name": " Black and white Texture Bicycle",
+        "price": "67.3",
+        "description": "Beyond Imagination.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "ratings": "4.4",
+        "images": [
+            {
+                "public_id": "products/04_ex6pms",
+                "url": "https://res.cloudinary.com/aahj/image/upload/v1621696331/products/04_ex6pms.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Daraz",
+        "stock": "340",
+        "numOfReviews": "3",
+        "reviews": []
+    },
+    {
+        "name": " Black and white Texture Bicycle",
+        "price": "67.3",
+        "description": "Beyond Imagination.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "ratings": "4.4",
+        "images": [
+            {
+                "public_id": "products/04_ex6pms",
+                "url": "https://res.cloudinary.com/aahj/image/upload/v1621696331/products/04_ex6pms.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Daraz",
+        "stock": "340",
+        "numOfReviews": "3",
+        "reviews": []
+    }
+]

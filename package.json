@@ -1,0 +1,32 @@
+{
+  "name": "shop-it",
+  "version": "1.0.0",
+  "description": "full ecommerce site mern",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "SET NODE_ENV=DEVELOPMENT& nodemon backend/server",
+    "prod": "SET NODE_ENV=PRODUCTION& nodemon backend/server",
+    "seeder": "node backend/utills/seeder.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run bild --prefix frontend"
+  },
+  "author": "aahj",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cloudinary": "^1.41.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^9.0.2",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.21",
+    "nodemailer": "^6.9.7",
+    "stripe": "^8.222.0",
+    "validator": "^13.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
